@@ -1,0 +1,218 @@
+2023-07-12 23:54:12,523 - server.logger_ser - ERROR - onnx_model.onnx_detect():66 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-12 23:54:12,529 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-12 23:54:52,675 - server.logger_ser - ERROR - onnx_model.onnx_detect():66 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-12 23:54:52,682 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-12 23:56:39,128 - server.logger_ser - ERROR - onnx_model.onnx_detect():66 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-12 23:56:39,132 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-12 23:57:04,117 - server.logger_ser - ERROR - onnx_model.onnx_detect():66 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-12 23:57:04,120 - logger_ser - ERROR - app.__handle_request():49 - Server false!
+NoneType: None
+2023-07-12 23:59:55,869 - server.logger_ser - ERROR - onnx_model.onnx_detect():68 - 'bytes' object has no attribute 'read'
+2023-07-12 23:59:55,879 - logger_ser - ERROR - app.__handle_request():49 - Server false!
+NoneType: None
+2023-07-13 00:00:26,095 - server.logger_ser - ERROR - onnx_model.onnx_detect():69 - 'bytes' object has no attribute 'read'
+2023-07-13 00:00:26,105 - logger_ser - ERROR - app.__handle_request():49 - Server false!
+NoneType: None
+2023-07-13 00:04:10,360 - server.logger_ser - ERROR - onnx_model.onnx_detect():68 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-13 00:04:10,366 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:06:12,346 - server.logger_ser - ERROR - onnx_model.onnx_detect():67 - 'bytes' object has no attribute 'read'
+2023-07-13 00:06:12,356 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:06:43,743 - server.logger_ser - ERROR - onnx_model.onnx_detect():68 - 'bytes' object has no attribute 'read'
+2023-07-13 00:06:43,752 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:08:28,829 - server.logger_ser - ERROR - onnx_model.onnx_detect():69 - 'bytes' object has no attribute 'read'
+2023-07-13 00:08:28,839 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:10:59,948 - server.logger_ser - ERROR - onnx_model.onnx_detect():71 - '_io.BytesIO' object has no attribute 'decode'
+2023-07-13 00:10:59,957 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:11:26,126 - server.logger_ser - ERROR - onnx_model.onnx_detect():69 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-13 00:11:26,130 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:13:12,111 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - a bytes-like object is required, not 'FileStorage'
+2023-07-13 00:13:12,122 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:16:10,146 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - 'bytes' object has no attribute 'read'
+2023-07-13 00:16:10,156 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:17:03,527 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-13 00:17:03,534 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:17:49,294 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-13 00:17:49,298 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:22:15,071 - server.logger_ser - ERROR - onnx_model.onnx_detect():75 - OpenCV(4.6.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:816: error: (-215:Assertion failed) !buf.empty() in function 'imdecode_'
+
+2023-07-13 00:22:15,080 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-13 00:22:34,754 - server.logger_ser - ERROR - onnx_model.onnx_detect():75 - OpenCV(4.6.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:816: error: (-215:Assertion failed) !buf.empty() in function 'imdecode_'
+
+2023-07-13 00:22:34,763 - logger_ser - ERROR - app.__handle_request():47 - Server false!
+NoneType: None
+2023-07-16 17:09:00,485 - logger_ser - ERROR - app.ocr_type_document():76 - Id not found!
+2023-07-16 17:09:00,500 - logger_ser - ERROR - app.ocr_type_document():88 - 
+Traceback (most recent call last):
+  File "/media/HDD1/hai/api-server-template/server/app.py", line 77, in ocr_type_document
+    raise Exception
+Exception
+2023-07-16 17:09:18,771 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-16 17:09:18,775 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 17:20:14,181 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-16 17:20:14,190 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 17:20:35,841 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-16 17:20:35,850 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 17:52:12,871 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <FileStorage: 'image' (None)>
+2023-07-16 17:52:12,894 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:01:03,296 - logger_ser - ERROR - app.ocr_type_document():89 - a bytes-like object is required, not 'FileStorage'
+Traceback (most recent call last):
+  File "/media/HDD1/hai/api-server-template/server/app.py", line 79, in ocr_type_document
+    _img_file = BytesIO(_img_file)
+TypeError: a bytes-like object is required, not 'FileStorage'
+2023-07-16 18:01:47,880 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7fa3c05f9e30>
+2023-07-16 18:01:47,884 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:02:12,884 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - 'bytes' object has no attribute 'seek'
+2023-07-16 18:02:12,894 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:02:29,350 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7fb98974fe30>
+2023-07-16 18:02:29,357 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:03:48,132 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7fc8307fae30>
+2023-07-16 18:03:48,135 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:04:18,856 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7fed2c7b9fb0>
+2023-07-16 18:04:18,863 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:06:00,895 - server.logger_ser - ERROR - onnx_model.onnx_detect():69 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:06:00,905 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:06:34,898 - server.logger_ser - ERROR - onnx_model.onnx_detect():69 - 'bytes' object has no attribute 'seek'
+2023-07-16 18:06:34,908 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:06:50,910 - server.logger_ser - ERROR - onnx_model.onnx_detect():69 - cannot identify image file <_io.BytesIO object at 0x7fdb60d0fd10>
+2023-07-16 18:06:50,917 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:07:44,984 - server.logger_ser - ERROR - onnx_model.onnx_detect():69 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:07:44,994 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:08:21,973 - server.logger_ser - ERROR - onnx_model.onnx_detect():69 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:08:21,983 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:09:03,382 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:09:03,392 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:09:54,987 - logger_ser - ERROR - app.ocr_type_document():89 - a bytes-like object is required, not 'FileStorage'
+Traceback (most recent call last):
+  File "/media/HDD1/hai/api-server-template/server/app.py", line 79, in ocr_type_document
+    _img_file = BytesIO(_img_file).read()
+TypeError: a bytes-like object is required, not 'FileStorage'
+2023-07-16 18:11:16,637 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:11:16,647 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:11:44,728 - server.logger_ser - ERROR - onnx_model.onnx_detect():67 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:11:44,738 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:12:42,952 - server.logger_ser - ERROR - onnx_model.onnx_detect():68 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:12:42,962 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:13:06,975 - server.logger_ser - ERROR - onnx_model.onnx_detect():68 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:13:06,985 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:13:39,462 - server.logger_ser - ERROR - onnx_model.onnx_detect():69 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:13:39,472 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:13:58,082 - server.logger_ser - ERROR - onnx_model.onnx_detect():69 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:13:58,092 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:15:32,556 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:15:32,566 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:18:52,482 - server.logger_ser - ERROR - onnx_model.onnx_detect():72 - '_io.BytesIO' object has no attribute 'save'
+2023-07-16 18:18:52,492 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:22:37,770 - server.logger_ser - ERROR - onnx_model.onnx_detect():73 - a bytes-like object is required, not '_io.BytesIO'
+2023-07-16 18:22:37,780 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:25:02,102 - logger_ser - ERROR - app.ocr_type_document():89 - 'bytes' object has no attribute 'seek'
+Traceback (most recent call last):
+  File "/media/HDD1/hai/api-server-template/server/app.py", line 79, in ocr_type_document
+    _img_file.seek(0)
+AttributeError: 'bytes' object has no attribute 'seek'
+2023-07-16 18:27:21,493 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f4abdaf41d0>
+2023-07-16 18:27:21,501 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:28:47,091 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - formats must be a list or tuple
+2023-07-16 18:28:47,101 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:29:09,824 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - open() got an unexpected keyword argument 'format'
+2023-07-16 18:29:09,834 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:29:39,004 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - open() got an unexpected keyword argument 'format'
+2023-07-16 18:29:39,013 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:31:21,694 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f547a5b9d10>
+2023-07-16 18:31:21,702 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:32:06,664 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7fe3de5b9a10>
+2023-07-16 18:32:06,674 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:32:49,285 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f90cf39e1d0>
+2023-07-16 18:32:49,293 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:33:22,824 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f90cf3f9a70>
+2023-07-16 18:33:22,834 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:33:37,112 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f90cf2771d0>
+2023-07-16 18:33:37,122 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 18:34:17,802 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f90cf277530>
+2023-07-16 18:34:17,812 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:37:06,848 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7faa595f9dd0>
+2023-07-16 20:37:06,856 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:44:20,345 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f2ce57f9d70>
+2023-07-16 20:44:20,353 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:45:29,045 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f2ce579c110>
+2023-07-16 20:45:29,055 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:48:23,717 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f2ce297b170>
+2023-07-16 20:48:23,727 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:49:44,559 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f2ce297b650>
+2023-07-16 20:49:44,569 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:51:01,109 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - a bytes-like object is required, not 'FileStorage'
+2023-07-16 20:51:01,119 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:52:17,899 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - cannot identify image file <_io.BytesIO object at 0x7f5915bb9ad0>
+2023-07-16 20:52:17,906 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:53:38,069 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - 'bytes' object has no attribute 'seek'
+2023-07-16 20:53:38,077 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:54:03,722 - server.logger_ser - ERROR - onnx_model.onnx_detect():70 - 'int' object has no attribute 'read'
+2023-07-16 20:54:03,732 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:55:41,554 - server.logger_ser - ERROR - onnx_model.onnx_detect():71 - cannot identify image file <_io.BytesIO object at 0x7f7adc881a70>
+2023-07-16 20:55:41,562 - logger_ser - ERROR - app.__handle_request():46 - Server false!
+NoneType: None
+2023-07-16 20:55:59,418 - logger_ser -  INFO - app.__handle_request():49 - Success!
+2023-07-16 20:59:49,349 - logger_ser -  INFO - app.__handle_request():49 - Success!
+2023-07-16 21:00:56,624 - logger_ser -  INFO - app.__handle_request():49 - Success!
+2023-07-16 21:01:46,631 - logger_ser -  INFO - app.__handle_request():49 - Success!
+2023-07-16 21:02:16,928 - logger_ser -  INFO - app.__handle_request():49 - Success!
+2023-07-16 21:10:57,204 - logger_ser -  INFO - app.__handle_request():49 - Success!
+2023-07-16 21:12:31,867 - logger_ser -  INFO - app.__handle_request():49 - Success!
+2023-07-16 21:13:04,955 - logger_ser -  INFO - app.__handle_request():49 - Success!
+2023-07-16 21:35:26,523 - logger_ser -  INFO - app.__handle_request():49 - Success!

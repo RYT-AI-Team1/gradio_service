@@ -1,0 +1,12 @@
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+openpyxl==3.1.2
+Flask==2.2.5
+flask-babel==3.1.0
+Flask-Cors==3.0.10
+torch==1.13.1
+torchvision==0.14.1
+onnx==1.14.0
+onnx-simplifier==0.4.31
+onnxruntime==1.13.1
+Pillow==9.5.0
